@@ -1,0 +1,15 @@
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\bin\Debug\net6.0\Palindrome.exe
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\bin\Debug\net6.0\Palindrome.deps.json
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\bin\Debug\net6.0\Palindrome.runtimeconfig.json
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\bin\Debug\net6.0\Palindrome.dll
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\bin\Debug\net6.0\Palindrome.pdb
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\Palindrome.csproj.AssemblyReference.cache
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfoInputs.cache
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\Palindrome.AssemblyInfo.cs
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\Palindrome.csproj.CoreCompileInputs.cache
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\Palindrome.dll
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\refint\Palindrome.dll
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\Palindrome.pdb
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\Palindrome.genruntimeconfig.cache
+D:\C#\Alistirmalar\NLayeredAppDemo\Palindrome\obj\Debug\net6.0\ref\Palindrome.dll
